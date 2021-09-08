@@ -41,4 +41,4 @@ while True:
 	response = get_input()
 
 
-print("Thanks for playing!")
+print("Thanks for playing!").
